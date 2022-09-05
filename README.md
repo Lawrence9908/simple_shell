@@ -7,5 +7,5 @@
 
 
 ### Developers
-[Lawrence](https://www.example.com)
-[Sbusiso](https://www.example.com)
+- [Lawrence](https://www.example.com)
+- [Sbusiso](https://www.example.com)
